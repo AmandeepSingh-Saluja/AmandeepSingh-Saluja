@@ -5,7 +5,7 @@
 - 📫 How to reach me **amandeepsalujaa@gmail.com**
 
 
-🔭 I'm currently learning and advancing my skills in Django & Backend Engineering.<br><br>👯‍♂️ I'm looking to collaborate on projects centered around  machine learning, or Python.<br><br>🤝 I'm looking for help with finding professional Python developers who can assist me in landing a job in this field.<br><br>🌱 I'm currently learning about Django, Flask and machine learning.<br><br>💭 Ask me about Python development.<br><br>⚡ Fun Fact: Python programmers have a unique way of saying hello. They just print("Hello, World!").
+🔭 I'm currently  advancing my skills in Django & Backend Engineering.<br><br>👯‍♂️ I'm looking to collaborate on projects centered around  machine learning, or Python.<br><br>🤝 I'm looking for help with finding professional Python developers who can assist me in landing a job in this field.<br><br>🌱 I'm currently learning about Django, Flask and machine learning.<br><br>💭 Ask me about Python development.<br><br>⚡ Fun Fact: Python programmers have a unique way of saying hello. They just print("Hello, World!").
 
 
 ## 🌐 Socials:
